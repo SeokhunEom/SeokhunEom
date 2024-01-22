@@ -9,7 +9,9 @@
 
 ## :envelope: Social
 <a href="https://www.instagram.com/seokhun01"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seokhun01"/></a>
-<img src="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="https://seokhun.dev"><img src="https://img.shields.io/badge/blog-663399?style=flat-square&logo=gatsby&logoColor=white"/></a>
+
 
 <div>
   
