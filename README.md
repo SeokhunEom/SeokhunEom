@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=tommya98&animation=fadeIn&color=timeGradient)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=SeokHun&animation=fadeIn&color=timeGradient)
 
 <h4>:wave: Welcome my github profile !<h4>
 
